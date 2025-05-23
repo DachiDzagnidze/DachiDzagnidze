@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Dachi — a passionate Web Developer!<br>🎨 I love crafting beautiful and responsive websites.<br>💻 Currently working on my Portfolio Website.<br>🌱 Learning React, PHP, and JSON to level up my skills.<br>🚀 Solo developer on a mission to build cool projects.<br>💬 Ask me about Frontend or Full-Stack Development!<br>⚡ Fun fact: I can spend hours perfecting the smallest design details.<br><br>
+👋 Hi, I'm Dachi — a passionate Web Developer!<br>🎨 I love crafting beautiful and responsive websites.<br>💻 Currently working on my GOA webiste.<br>🌱 Learning React, PHP, and JSON to level up my skills.<br>🚀 Solo developer on a mission to build cool projects.<br>💬 Ask me about Frontend or Full-Stack Development!<br>⚡ Fun fact: I can spend hours perfecting the smallest design details.<br><br>
 
 
 ## 🌐 Socials:
