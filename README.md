@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 💫 About Me
@@ -7,9 +6,9 @@
 🎨 I love building clean, modern, and responsive websites.  
 💻 Currently working on my personal website and improving my skills.  
 🌱 Learning **React, PHP, and JSON** to become a stronger full-stack developer.  
-🚀 Solo developer on a mission to build real-world projects.  
+🚀 Solo developer focused on building real-world projects.  
 💬 Ask me about Frontend or Full-Stack Development!  
-⚡ Fun fact: I can spend hours perfecting tiny UI details until everything looks perfect.
+⚡ Fun fact: I can spend hours perfecting tiny UI details until everything feels perfect.
 
 ---
 
@@ -37,7 +36,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=DachiDzagnidze&show_icons=true&theme=tokyonight" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DachiDzagnidze&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
 
 ---
 
