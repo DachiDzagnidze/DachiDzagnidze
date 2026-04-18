@@ -35,7 +35,7 @@
 ---
 
 ## 📊 GitHub Stats
-
+<img src="https://github-readme-stats.vercel.app/api?username=DachiDzagnidze&show_icons=true&theme=tokyonight" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=DachiDzagnidze&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
 
 ---
