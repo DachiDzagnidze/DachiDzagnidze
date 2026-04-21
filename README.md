@@ -4,8 +4,8 @@
 
 👋 Hi, I'm **Dachi** — a passionate Web Developer!  
 🎨 I love building clean, modern, and responsive websites.  
-💻 Currently working on my personal website and improving my skills.  
-🌱 Learning **React, PHP, and JSON** to become a stronger full-stack developer.  
+💻 Currently working as a freelancer.  
+🌱 Learning **Node.js, SQL, and C** to become a stronger full-stack developer.  
 🚀 Solo developer focused on building real-world projects.  
 💬 Ask me about Frontend or Full-Stack Development!  
 ⚡ Fun fact: I can spend hours perfecting tiny UI details until everything looks perfect.
