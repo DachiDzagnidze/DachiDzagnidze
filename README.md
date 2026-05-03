@@ -12,7 +12,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DachiDzagnidze&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ## 💻 Tech Stack
 
@@ -25,12 +25,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
----
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DachiDzagnidze&show_icons=true&theme=tokyonight&hide_border=true)
-
----
 
 </div>
