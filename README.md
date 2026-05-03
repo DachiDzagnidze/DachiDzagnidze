@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DachiDzagnidze&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?DachiDzagnidze=anuraghazra&layout=compact)
 
 ---
 
