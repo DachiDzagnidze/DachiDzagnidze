@@ -11,8 +11,12 @@
 ⚡ Fun fact: I can spend hours perfecting tiny UI details until everything looks perfect.
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DachiDzagnidzelayout=compact)
 
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DachiDzagnidze&layout=compact&theme=tokyonight&hide_border=true)
+
+---
 
 ## 💻 Tech Stack
 
@@ -27,10 +31,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?DachiDzagnidze=anuraghazra&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DachiDzagnidze&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DachiDzagnidze&theme=tokyonight&hide_border=true)
 
 </div>
