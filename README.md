@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dachidzagnidze&layout=compact&theme=tokyonight&hide_border=true" width="420"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DachiDzagnidze&layout=compact)
 
 ---
 
