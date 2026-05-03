@@ -11,7 +11,7 @@
 ⚡ Fun fact: I can spend hours perfecting tiny UI details until everything looks perfect.
 
 ---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DachiDzagnidzelayout=compact)
 
 
 ## 💻 Tech Stack
