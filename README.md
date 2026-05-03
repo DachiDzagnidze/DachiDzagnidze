@@ -12,11 +12,7 @@
 
 ---
 
-## 📊 Top Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DachiDzagnidze&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 💻 Tech Stack
 
@@ -31,14 +27,10 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DachiDzagnidze&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DachiDzagnidze&theme=tokyonight&hide_border=true)
 
 </div>
